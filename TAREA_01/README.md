@@ -9,7 +9,6 @@ El artículo termina por definir tres factores que determinan lo que entra o no 
 
 Este primero se refiere a que, hace unos años, los discos de *greatests hits* eran sumamente relevantes, pero ahora fueron reemplazados por playlists. Además, aquellos discos que no están disponibles en *streaming* habrían bajado en la lista con el paso de los años, o derechamente ser eliminada de ella.
 
-![alt text]()
 
 La segunda, como bien señala su título, se refiere a que los discos más populares tienen mayores probabilidades de aparecer en la lista.
 
